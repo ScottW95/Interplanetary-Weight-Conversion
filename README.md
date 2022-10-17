@@ -1,0 +1,1 @@
+This program utilizes C++ to create a program that promts the user to enter their weight and what planet they want to go to.  The program will then convert their weight to how much it would be on their chosen planet and return that value to the user.
